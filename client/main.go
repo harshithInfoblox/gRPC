@@ -4,7 +4,7 @@ import (
 	"context"
 	"log"
 
-	pb "grpc_example/pb" // Update the import path here
+	pb "grpc_example/pb" 
 
 	"google.golang.org/grpc"
 )
